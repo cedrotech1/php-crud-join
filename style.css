@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+}
+input{
+    height: 1cm;
+    width: 10cm;
+}
+.button{
+    background-color: rgb(65, 65, 111);
+    color: white;
+}
+table{
+    width: 40%;
+}
+.th{
+    background-color: black;
+    color: aliceblue;
+    padding: 0.2cm;
+}
+ul{
+   display: flex;
+   margin: 1cm;
+   gap: 1cm;
+   /* margin-left: 12cm; */
+   
+}
+ul > li{
+    list-style: none;
+    font-size: 24px;
+}
+a{
+    text-decoration: none;
+}
